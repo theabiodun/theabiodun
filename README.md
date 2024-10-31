@@ -30,3 +30,10 @@
 
 ### 📫 Let’s Connect
 I’m always eager to connect, collaborate, and explore new data-driven projects. Reach out or browse my work here!
+
+
+<p align="center">
+  <a href="mailto:abiodunadedoyin6@gmail.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/abiodun-adedoyin">LinkedIn</a> •
+  <a href="https://github.com/theabiodun">GitHub</a>
+</p>
