@@ -33,7 +33,7 @@ I’m always eager to connect, collaborate, and explore new data-driven projects
 
 
 <p align="center">
-  <a href="mailto:abiodunadedoyin6@gmail.com">📧 Email</a> •
+  <a href="mailto:abiodunadedoyin6@gmail.com">📧 Email</a> • 
   <a href="https://linkedin.com/in/abiodun-adedoyin">LinkedIn</a> •
   <a href="https://github.com/theabiodun">GitHub</a>
 </p>
